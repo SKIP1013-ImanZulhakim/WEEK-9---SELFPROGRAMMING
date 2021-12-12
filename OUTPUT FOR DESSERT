@@ -1,0 +1,32 @@
+----------------------Welcome to UUM bakery product made, leftovers and donation system---------------------
+
+Please enter the amounts of Tarts made:
+111
+Please enter the amounts of Pie made:
+111
+Please enter the amounts of Pudding made:
+111
+
+Please enter the amounts of Tarts sold:
+11
+Please enter the amounts of Pie sold:
+11
+Please enter the amounts of Pudding sold:
+11
+
+Amount of product sold is RM 66.00
+Amount of Tarts left is 100
+Amount of Pie left is 100
+Amount of Pudding left is 100
+
+Please enter the amounts of Tarts to be donated:
+50
+Please enter the amounts of Pie to be donated:
+50
+Please enter the amounts of Pudding to be donated:
+50
+
+Amount of product donated:
+Tarts donated is 50
+Pie donated is 50
+Pudding donated is 50
