@@ -3,7 +3,6 @@ import java.util.Scanner;
 public class Dessert {
 
 	public static void main(String[] args) {
-		// Kira hasil dapatan seharian kuih yg dijual di gerai Cik Kiah
 	    Scanner sc= new Scanner (System.in);
 	    
 	    //declare all the variables
@@ -14,6 +13,7 @@ public class Dessert {
 	    	tartsLeft, pieLeft, puddingLeft,
 	    	tartsDonate, pieDonate, puddingDonate;
 	    double amountSold;
+	    
 	    System.out.println("----------------------Welcome to UUM bakery product made, leftovers and donation system---------------------");
 	    
 	   //Entering the amount of each product made
